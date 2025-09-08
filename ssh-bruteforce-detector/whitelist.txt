@@ -1,0 +1,7 @@
+# SSH Detector Whitelist - Add trusted IPs/networks
+# Examples:
+# 192.168.1.0/24
+# 10.0.0.100
+
+192.168.89
+172.8.9.9

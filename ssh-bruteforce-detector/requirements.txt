@@ -1,0 +1,5 @@
+# Python requirements
+typing-extensions>=4.0
+
+# System requirement (not installable via pip):
+# tshark (part of Wireshark) must be installed and accessible in PATH
