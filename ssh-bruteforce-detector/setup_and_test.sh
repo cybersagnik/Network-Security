@@ -3,7 +3,7 @@
 # Works on Kali Linux (Debian-based)
 
 sudo apt-get update
-sudo apt install -y tshark iptables python3 python3-pip hydra openssh-client
+sudo apt install -y tshark iptables python3 python3-pip openssh-client openssh-server
 
 pip3 install -r requirements.txt || true
 
