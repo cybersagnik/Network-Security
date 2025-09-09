@@ -34,8 +34,8 @@ This detector uses `tshark` to capture SSH traffic, identifies suspicious behavi
 Clone the repository and run the setup script on the victim machine:
 
 ```bash
-git clone https://github.com/cybersagnik/Network-Security/ssh-bruteforce-detector.git
-cd ssh-bruteforce-detector
+git clone https://github.com/cybersagnik/Network-Security/
+cd Network-Security/ssh-bruteforce-detector
 chmod +x setup_and_test.sh
 ./setup_and_test.sh
 ```
